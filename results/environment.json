@@ -1,0 +1,7 @@
+{
+  "cpu": "Apple M4",
+  "python": "3.13.11",
+  "opencv": "4.14.0",
+  "numpy": "2.5.4",
+  "os": "macOS-26.5-arm64-arm-64bit-Mach-O"
+}

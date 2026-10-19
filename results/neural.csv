@@ -1,0 +1,4 @@
+video,yolo_box,yolo_recall50,yolo_recall50_blur,yolo_mean_iou,yolo_switches,yolo_fps,kp_recall50,kp_recall50_blur,kp_mean_iou,frames
+mona-lisa,95.161,87.634,nan,0.598,4,55.71,100.0,nan,1.0,558
+mona-lisa-blur,94.444,86.918,0.0,0.597,4,55.17,100.0,100.0,0.994,558
+mona-lisa-blur-extra-credit,92.652,84.588,0.0,0.593,3,48.136,100.0,100.0,0.962,558
